@@ -1,0 +1,26 @@
+{
+  "students": [
+    {
+      "name": "Nguyen Dinh Minh",
+      "birthday": "1999-10-17",
+      "studentID": "17021297",
+      "gender": "Male",
+      "email": "17021297@vnu.edu.vn",
+      "Relative": {
+        "-name": "Nguyen Dinh Luan ",
+        "-address": "Hoi Son, Anh Son, Nghe An"
+      }
+    },
+    {
+      "name": "Dang Huu Hoan",
+      "birthday": "1999-09-09",
+      "studentID": "17021253",
+      "gender": "Male",
+      "email": "17021253@vnu.edu.vn",
+      "Relative": {
+        "-name": "Dang Huu Cuong ",
+        "-address": "Da Son, Do Luong, Nghe An"
+      }
+    }
+  ]
+}
